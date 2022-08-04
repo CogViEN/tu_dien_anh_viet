@@ -1,0 +1,97 @@
+aggressive,hung hang xong xao,adj
+active,nhanh nhen nang dong,adj
+ambitious,co nhieu tham vong,adj
+alert,canh giac,adj
+boast,khoe khoang,n
+brave,dung cam,adj
+bad,xau xa,adj
+boring,te nhat,adj 
+blind,mu quang,adj
+careful,can than,adj
+cautious,than trong,adj
+careless,bat can ,adj
+confident,tu tin,adj
+courage,dung cam,adj
+clever,kheo leo,adj
+cheerful,vui ve,adj 
+cruel,doc ac,adj
+composed,diem dam,adj
+childish,ngay ngo,adj
+cold,lanh lung,adj
+considerate,chu dao,adj
+crazy,dien khung,adj
+difficult to please,kho tinh,adj
+dependable,dang tin cay,adj
+deceptive,doi tra lua loc,adj
+extroverted,huong ngoai,adj
+easy going,de gan,adj
+enthusiastic,nhiet tinh,adj
+emotional,de xuc dong,adj
+exciting,thu vi,adj
+funny,vui ve,adj
+fresh,tuoi tinh,adj
+faithful,chung thuy,adj
+friendly,than thien,adj
+gentle,nhe nhang,adj
+generous,hao phong,adj
+gruff,tho lo cuc can,adj
+hard working,cham chi,adj
+humorous,hai huoc,adj
+hot,nong nay,adj
+hot tempered,nong tinh,adj
+honest,trung thuc,adj
+haughty,kieu cang,adj
+hospitality,hieu khach,adj
+insolent,lao xuoc,adj
+impolite,bat lich su,adj
+imaginative,giau tri tuong tuong,adj
+impatient,khong kien nhan,adj
+individualistic,theo chu nghia ca nhan,adj
+introverted,huong noi,adj
+kind,tu te,adj
+kind hearted,tot bung,adj
+lazy,luoi bieng,adj
+lovely,dang yeu,adj
+liberal,phong khoang,adj
+loyal,trung thanh,adj
+modest,khiem ton,adj
+mean,keo kiet,adj
+nice,tot xinh,adj
+naive,ngay tho,adj
+open minded,khoang dat,adj
+observant,tinh y,adj
+open hearted,coi mo,adj
+optimistic,lac quan,adj
+out going,coi mo,adj
+positive,tieu cuc,adj
+passionate,soi noi,adj
+polite,lich su,adj
+patient,kien nhan,adj
+pleasant,de chiu,adj
+pessimistic,bi quan,adj
+quiet,it noi,adj
+rational,co ly tri chung muc,adj
+reckless,hap tap,adj
+selfish,ich ky,adj
+shy,nhut nhat,adj
+stubborn,buong binh,adj
+smart,lanh loi,adj
+sincere,thanh that,adj
+shameless,trang trao,adj
+strict,nghiem khac,adj
+sheepish,e then,adj
+soft,diu dang,adj
+secretive,kin dao,adj
+sociable,hoa dong,adj
+sensitive,nhay cam,adj
+tricky,xao quyet,adj
+talkative,noi nhieu,adj
+truthful,trung thuc,adj
+tactful,lich thiep,adj
+understanding,hieu biet,adj
+unkind,xau bung,adj
+unlovely,kho gan,adj
+unpleasant,kho tinh,adj
+unfriendly,kho gan,adj
+wise,uyen bac,adj
+wide,rong,adj
